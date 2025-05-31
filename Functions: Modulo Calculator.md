@@ -18,6 +18,8 @@ def result(a,b):
     print(f"modulo is {mod}") 
 a = int(input()) 
 b = int(input())
+result(a,b)
+
 ```
 
 ## Output
