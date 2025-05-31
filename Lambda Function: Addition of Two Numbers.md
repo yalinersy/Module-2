@@ -13,7 +13,7 @@ To write a Python program that defines a **lambda function** which takes two arg
 a=int(input())
 b=int(input())
 f=lambda a,b:a+b
-print(f(a,b))
+print(f"Addition: {f(a,b)}")
 ```
 
 ## Output
